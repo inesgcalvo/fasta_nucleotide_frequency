@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun  2 14:34:25 2023
-
-@author: nexina
+@author: Inés G. Calvo
 """
 
 # Esta función abrirá el documento FASTA con la secuencia del gen y leerá todos los nucleótidos
